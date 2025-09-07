@@ -1,7 +1,3 @@
 # Contributing Guidelines
 
-- Fork the repository
-- Create a branch
-- Make commits
-- Push your branch
-- Open a Pull Request
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome
